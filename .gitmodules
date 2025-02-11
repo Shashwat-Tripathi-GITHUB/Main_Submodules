@@ -1,0 +1,6 @@
+[submodule "CSS_Submodule"]
+	path = CSS_Submodule
+	url = https://github.com/Shashwat-Tripathi-GITHUB/Main_CSS_Submodule.git
+[submodule "JS_Submodule"]
+	path = JS_Submodule
+	url = https://github.com/Shashwat-Tripathi-GITHUB/Main_JS_Submodule.git
